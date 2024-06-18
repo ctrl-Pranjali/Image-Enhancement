@@ -98,11 +98,10 @@ cv2_imshow(equalized_image)
 ```
 Converts the enhanced image to grayscale, applies histogram equalization, and displays the equalized image.
 
+##
+<br>I hope this explanation was helpful to you.</br>
+<br>Thank you for your support.</br>
+<br>Keep Learning.</br>
+<br>~Pranjali Goyal</br>
 
-<small>
-I hope this explanation was helpful to you.
-Thank you for your support 
-Keep Learning
-~Pranjali Goyal
-</small>
 
