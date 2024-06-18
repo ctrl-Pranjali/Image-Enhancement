@@ -100,8 +100,8 @@ Converts the enhanced image to grayscale, applies histogram equalization, and di
 
 ##
 <br>I hope this explanation was helpful to you.</br>
-<br>Thank you for your support.</br>
-<br>Keep Learning.</br>
-<br>~Pranjali Goyal</br>
+Thank you for your support.</br>
+Keep Learning.</br>
+~Pranjali Goyal</br>
 
 
