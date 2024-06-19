@@ -13,7 +13,8 @@ In this project, I have developed techniques to **enhance dark or low light imag
 </br>
 You can add Images, Videos and also real time videos for enhancement.
 <br>
-</br>
+You can download the dataset provided in the folder named LOW_IMAGE_DATASET, which contains 15 images.</br>
+To use these images in your code, you can import the entire folder or a single image and specify the path to the image in your code.
 
 ##
 ##
