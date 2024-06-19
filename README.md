@@ -9,6 +9,12 @@ In this project, I have developed techniques to **enhance dark or low light imag
 - **Color Correction:** Corrects the color balance to ensure natural and accurate colors.
 - **Histogram Equalization:** Uses histogram equalization techniques to enhance the overall appearance of images.
 
+<br>
+</br>
+You can add Images, Videos and also real time videos for enhancement.
+<br>
+</br>
+
 ##
 ##
 
